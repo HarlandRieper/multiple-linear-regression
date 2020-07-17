@@ -1,2 +1,2 @@
 # first
-just try
+just try and practice
